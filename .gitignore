@@ -1,0 +1,16 @@
+# Sorties de compilation
+build/
+.gradle/
+.kotlin/
+local.properties
+*.apk
+*.zip
+*.log
+
+# Outils de test, régénérables
+outils/vecteurs/
+outils/audio/*.wav
+
+outils/faux-cornelius/
+outils/captures/
+

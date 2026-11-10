@@ -1,0 +1,8 @@
+# Fins de ligne
+* text=auto eol=lf
+
+# Fichiers binaires
+*.png binary
+*.jpg binary
+*.apk binary
+*.onnx binary
